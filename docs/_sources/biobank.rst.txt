@@ -1,0 +1,7 @@
+biobank module
+==============
+
+.. automodule:: biobank
+   :members:
+   :undoc-members:
+   :show-inheritance:
